@@ -2,6 +2,7 @@
 <h3 align="center">SAP consultant who writes code. Order-to-Cash by day, automation tools by night.</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sunny-raj-bolluru-aa28421b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://sunnyrajb.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"></a>
 </p>
 
