@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm an SAP consultant at Business Core Solutions (BCS), a small SAP and integration consultancy, based in India.
+I'm an SAP consultant at Business Core Solutions (BCS), based in India.
 
 - My client work is SAP SD and Order-to-Cash: Salesforce to SAP ECC integration, pricing, IDocs, OData and BAPI services.
 - I also build our internal automation tooling in C#. It has a YAML DSL that drives SAP GUI and Fiori (through Playwright), and a recorder that writes the scripts for you.
